@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun M</h1>
 <h3 align="center">A passionate Data Practitioner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/wGIz.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun6832&label=Profile%20views&color=0e75b6&style=flat" alt="arun6832" /> </p>

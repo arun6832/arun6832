@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="435" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
+  <img height="435" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637909832295/x0vGvuXUZ.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"  />
 </div>
 
 ###

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="435" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637909832295/x0vGvuXUZ.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"  />
+  <img height="435" src="https://vsgif.com/gif/3157073"  />
 </div>
 
 ###

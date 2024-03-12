@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="435" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1630094368745-GB8NVYEVVHB2UKX8Y3FU/final+with+character+in+window.gif"  />
+  <img height="435" src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/tumblr_njlqclfisw1qze3hdo1_r2_500.gif"  />
 </div>
 
 ###

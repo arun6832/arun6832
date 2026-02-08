@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">I'm Arun M — a Data Comedian, turning insurance numbers into punchlines! 📊🤣</h2>
+<h2 align="center">I'm Arun M — a Data Comedian, turning health insurance chaos into clean insights 🏥📊🤣</h2>
 
 ###
 
@@ -18,13 +18,26 @@
 
 <p align="left">
 I'm Arun M from Kerala 🌴, India<br><br>
-💼 Currently diving deep into fraud analytics and dashboards at <strong>Bajaj Allianz General Insurance</strong><br><br>
-🚀 Launching into the ML galaxy, one dataset at a time!<br><br>
-📚 Pursuing MSc Data Science and cultivating insights in the analytics jungle 🌱<br><br>
-🧠 AI enthusiast looking for collab-battles (Neural Networks vs Logic)<br><br>
-💡 Favorite debugging technique? Coffee ☕ and memes 😅<br><br>
-🌐 Explore my digital playground: <a href="https://arun6832.github.io/Portfolio/">arun6832.github.io/Portfolio</a><br><br>
-📬 Let's vibe: <a href="mailto:arunpappulli@gmail.com">arunpappulli@gmail.com</a>
+
+💼 Data Scientist at <strong>Star Health & Allied Insurance</strong>, working on fraud analytics, claim intelligence, and data that decides whether it’s genuine care or creative storytelling 🕵️‍♂️📉<br><br>
+
+🧠 Building real-world ML & NLP systems to classify claims, analyze rejection remarks, and separate soft fraud from hard fraud — no vibes, only evidence<br><br>
+
+🚀 Deep into ML, LLMs, and applied AI — from automated summaries and dashboards to intelligent decision-support systems<br><br>
+
+📚 Pursuing MSc Data Science while also preparing for bigger battles like UGC-NET, research tracks, and long-term PhD ambitions 🎓<br><br>
+
+⚙️ Open-source builder by night — creating AI-powered libraries for visualization, dataset discovery, and automated insights (because repetition is a crime)<br><br>
+
+🧪 Side quests include: n8n automations, finance & insurance analytics, sports data experiments, and making AI do boring human work<br><br>
+
+💡 Debugging stack: coffee ☕, logs, rubber-duck reasoning, and one final “okay NOW it works” moment 😅<br><br>
+
+🌐 Explore my digital playground: 
+<a href="https://arun6832.github.io/Portfolio/">arun6832.github.io/Portfolio</a><br><br>
+
+📬 Let’s build serious systems with unserious humour:
+<a href="mailto:arunpappulli@gmail.com">arunpappulli@gmail.com</a>
 </p>
 
 ###

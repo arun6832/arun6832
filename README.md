@@ -10,28 +10,29 @@
 
 ###
 
-<h2 align="center">I'm Arun M — a Data Comedian, turning health insurance chaos into clean insights 🏥📊🤣</h2>
+<h2 align="center">I'm Arun M — turning complex data into structured, actionable insights ⚙️📊</h2>
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
-I'm Arun M from Kerala 🌴, India<br><br>
+I'm Arun M from Kerala, India 🌴<br><br>
 
-💼 Data Scientist at <strong>Star Health & Allied Insurance</strong>, working on fraud analytics, claim intelligence, and data that decides whether it’s genuine care or creative storytelling 🕵️‍♂️📉<br><br>
+💼 Data professional working in health insurance analytics, focusing on fraud detection, claim intelligence, and data-driven decision systems.<br><br>
 
-🧠 Building real-world ML & NLP systems to classify claims, analyze rejection remarks, and separate soft fraud from hard fraud — no vibes, only evidence<br><br>
+🧠 Building machine learning and NLP solutions to classify claims, analyze rejection patterns, and distinguish genuine cases from anomalous behavior using evidence-driven approaches.<br><br>
 
-🚀 Deep into ML, LLMs, and applied AI — from automated summaries and dashboards to intelligent decision-support systems<br><br>
+🚀 Working across ML, LLMs, and applied AI — including automated summarization, intelligent dashboards, and decision-support systems.<br><br>
 
-📚 Pursuing MSc Data Science while also preparing for bigger battles like UGC-NET, research tracks, and long-term PhD ambitions 🎓<br><br>
+🎓 Currently pursuing MSc in Data Science, with long-term interests in research, advanced analytics, and deeper academic exploration.<br><br>
 
-⚙️ Open-source builder by night — creating AI-powered libraries for visualization, dataset discovery, and automated insights (because repetition is a crime)<br><br>
+⚙️ Open-source contributor developing AI-powered tools for data visualization, dataset discovery, and automated insights.<br><br>
 
-🧪 Side quests include: n8n automations, finance & insurance analytics, sports data experiments, and making AI do boring human work<br><br>
+🧪 Exploring automation workflows, financial and insurance analytics, and applied data systems across domains.<br><br>
 
-💡 Debugging stack: coffee ☕, logs, rubber-duck reasoning, and one final “okay NOW it works” moment 😅<br><br>
+💡 Approach to problem-solving combines structured thinking, experimentation, and iterative debugging.
+</p>
 
 🌐 Explore my digital playground: 
 <a href="https://arun6832.github.io/Portfolio/">arun6832.github.io/Portfolio</a><br><br>
